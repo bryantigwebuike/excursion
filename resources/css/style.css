@@ -5,8 +5,8 @@ p {
 
 body {
   width: 80%;
-  height: auto;
-  background-color: black;
+  height: 100%;
+  background-color: red;
   text-align: center;
   margin: auto;
 }
