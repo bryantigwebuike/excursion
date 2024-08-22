@@ -5,8 +5,31 @@ body {
 
 p {
   font-family: verdana;
-  font-size: 20px;
   margin-top: 100px;
   color: white;
 }
 
+.discover {
+  font-size: 50px;
+  font-weigth: normal;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.excursion {
+  color: gray;
+  font-size: 21px;
+}
+
+.your {
+  font-weigth: 300;
+  font-size: 42px;
+}
+
+.coming {
+  font-weigth: 300;
+  font-size: 42px;
+}
