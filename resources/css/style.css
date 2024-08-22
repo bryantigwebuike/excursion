@@ -1,5 +1,12 @@
 p {
-  text-align: center;
   font-family: verdana;
   font-size: 20px;
+}
+
+body {
+  width: 80%;
+  height: auto;
+  background-color: black;
+  text-align: center;
+  margin: auto;
 }
